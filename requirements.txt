@@ -1,0 +1,11 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.11.0+cpu
+transformers==5.8.1
+colpali-engine==0.3.16
+gradio==6.14.0
+pandas==3.0.3
+numpy==2.4.5
+pillow==12.2.0
+tqdm==4.67.3
+accelerate==1.13.0
+huggingface_hub==1.15.0
